@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nisum",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "nisum",
+    "packageName": "com.nisum",
+    "packageFolder": "com/nisum",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTVkZDFjMzIzZDA4MDc2OTJjNGNiNjg0Yzk4NDY5NmVlMjMxNTY5NjU5MDYzMTJlYThiYWE4YzBjM2FjMDdjZDVjYjMzYzdkN2ZjMTlkZjY3ZjJkZDllMmQ5MjE3NzEyMGU3ODg5YTE4MDBkMTM0NmQ3OTAyMzEyYmMxYjAzNjQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1605325729518,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
